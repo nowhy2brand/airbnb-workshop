@@ -10,10 +10,6 @@ module.exports = {
       fontFamily : {
         'poppins' : ['Poppins']
       },
-      colors:{
-        'focus-yellow': '#ffc952',
-        'focus-gray' : '#333333',
-      },
       width: {
         '72': '18rem',
         '84': '21rem',
