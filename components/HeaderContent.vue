@@ -1,7 +1,7 @@
 <template>
     <div class="h-full w-screen">
         <div class="relative">
-            <img :srcset="imgURL" class="w-full h-full object-cover"/>
+            <img :srcset="imgURL" class="w-full h-screen object-cover"/>
             <div class="absolute top-0 h-full">
                 <div class="flex h-full pl-16">
                     <div class="my-auto w-96">
